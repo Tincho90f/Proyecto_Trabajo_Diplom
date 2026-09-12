@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BE/BE.csproj" Id="04b57aa0-fe6b-4c31-b066-3f5df92c00c8" />
+  <Project Path="BLL/BLL.csproj" Id="5228e892-7177-434d-b82c-28357f35e899" />
+  <Project Path="DAL/DAL.csproj" Id="b1361dcf-df74-49d5-99fd-3b8208c18d59" />
+  <Project Path="Proyecto IS - Regal y Ferreiro/UI.csproj" Id="85ef481c-c448-4d56-bddc-294e8de1d0d1" />
+  <Project Path="Servicios/Servicios.csproj" Id="46afaa9d-6d02-4786-99d7-a6c6a85bb4af" />
+</Solution>
